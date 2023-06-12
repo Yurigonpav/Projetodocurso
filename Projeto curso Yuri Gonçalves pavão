@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Site do curso html</title>
+</head>
+<body>
+      <h1>Tudo que aprendi <i>no curso</i> até o momento</h1>
+      <p>Data:&nbsp;<mark>11/06/23</mark>&nbsp; Aluno <strong>(Yuri gonçalves pavão)</strong></p>
+      <h5>Menu</h5>
+      <ol>
+            <li><a href="#primeiro" >Historia da web</a></li>
+            <br>
+           <li><a href="#segundo" >O que são clients</a></li>
+           <br>
+           <li><a href="#terceiro" >O que são Servers</a></li>
+           <br>
+           <li><a href="#quarto" >Linguagens de Programação</a></li>
+           <br>
+           <li><a href="#quinto" >Introdução do Html na prática</a></li>
+           <br>
+      </ol>
+      <img src="file:///storage/emulated/0/Img/menu.png" width="400" height="100">   
+      <hr>
+    <h2 id="primeiro">História da Web</h2>
+    <p2>A história da web remonta ao final dos anos <b>1960</b>, quando o governo dos Estados Unidos lançou a ARPANET (Advanced Research Projects Agency Network), uma rede de computadores criada com o objetivo de compartilhar recursos e informações entre instituições acadêmicas e militares. A ARPANET foi a precursora da Internet.
+    
+    Nos anos <b>1970</b>, a ARPANET começou a usar o protocolo TCP/IP (<i>Transmission Control Protocol/Internet Protocol</i>), que se tornou a base para a comunicação na rede e é amplamente utilizado até hoje. O TCP/IP permitiu que diferentes redes se conectassem, formando uma rede de redes, a Internet.
+    
+    Em 1989, Tim Berners-Lee, um cientista britânico do CERN (Organização Europeia para a Pesquisa Nuclear), propôs um sistema de hipertexto que permitiria a criação de links entre documentos e a navegação entre eles. Esse sistema foi chamado de World Wide Web. Berners-Lee também desenvolveu o primeiro navegador web, chamado de WorldWideWeb, e o primeiro servidor web.
+    
+    No início dos anos 1990, a web começou a se popularizar. Marc Andreessen e Eric Bina criaram o primeiro navegador web gráfico chamado Mosaic, que tornou a web mais acessível e fácil de usar. Em 1993, a CERN lançou a tecnologia da web em domínio público, permitindo que outras pessoas a desenvolvessem e aprimorassem.
+    
+    A partir daí, a web começou a se expandir rapidamente. Surgiram os primeiros provedores de serviços de internet (ISPs) comerciais, que ofereciam acesso à web para o público em geral. Empresas e organizações começaram a criar sites, e o número de páginas e recursos online cresceu exponencialmente.
+    
+    Em meados dos anos <strong>1990</strong>, a web viu o surgimento dos primeiros motores de busca, como o Yahoo! e o Altavista, que ajudaram os usuários a encontrar informações na rede. <br> <br> Também foi nessa época que a web se tornou uma plataforma para comércio eletrônico, com a criação de sites de vendas online, como a Amazon.
+    
+    No final dos anos 1990, houve um boom da web com a chamada "bolha da Internet". Muitas empresas de tecnologia foram criadas, e o investimento em startups relacionadas à web estava em alta. No entanto, em<b> 2000</b>, a bolha estourou, resultando no colapso de várias empresas e uma queda no valor das ações relacionadas à web.
+    
+    Apesar disso, a web continuou a se desenvolver e se tornou uma parte essencial da vida moderna. Com a evolução das tecnologias web, como a introdução do AJAX (<i>Asynchronous JavaScript and XML</i>) e o desenvolvimento de linguagens de programação web, como o HTML5 e o CSS3, os sites se tornaram mais dinâmicos e interativos.
+    
+    Nos últimos anos, a web passou por uma série de avanços, como a popularização das redes sociais, o crescimento do comércio móvel e o aumento do uso de serviços de streaming de vídeo. Além disso, houve preocupações crescentes sobre privacidade e segurança na web, levando a esforços para fortalecer a proteção dos usuários.
+    
+    Em resumo, a história da web começou como um projeto de pesquisa do governo dos EUA e evoluiu para uma tecnologia global.</p2>
+    <hr> <br>
+    
+    <h2 id="segundo">o que são Clients</h2>
+    <p3>Na relação web, os "clients" (clientes) são os dispositivos ou softwares utilizados pelos usuários para acessar e interagir com os recursos disponíveis na web. O termo "client" refere-se ao papel desempenhado por esses dispositivos ou softwares na comunicação com os servidores web.
+    
+    Um "client" pode ser um navegador web, como o Google Chrome, Mozilla Firefox, Safari ou Microsoft Edge, que permite aos usuários visualizar páginas da web, acessar sites, preencher formulários online e interagir com diferentes tipos de conteúdo na web.
+    
+    Além dos navegadores web, os "clients" também podem ser aplicativos móveis específicos que se conectam à internet para fornecer funcionalidades e conteúdos específicos aos usuários. <br> <br>Esses aplicativos podem ser desenvolvidos para dispositivos Android, iOS ou outros sistemas operacionais móveis.
+    
+    Os "clients" podem acessar diferentes tipos de recursos na web, como páginas da web, arquivos, serviços online, mídia, redes sociais, aplicativos web, entre outros. Eles enviam solicitações aos servidores web, que fornecem as respostas correspondentes com base nas solicitações recebidas.
+    
+    A relação entre o "client" e o servidor web é baseada no protocolo HTTP (Hypertext Transfer Protocol) ou em suas variantes, como HTTPS (HTTP Secure), que fornecem um conjunto de regras e padrões para a comunicação e transferência de dados entre o "client" e o servidor.
+    
+    Em resumo, na relação web, os "clients" são os dispositivos ou softwares usados pelos usuários para acessar e interagir com os recursos disponíveis na web, como navegadores web e aplicativos móveis. Eles se comunicam com os servidores web por meio de protocolos como HTTP para obter as informações solicitadas.</p3>
+    <hr> <br>
+    
+    <h2 id="terceiro">O que são Servers</h2>
+    <p4>"Servers" são computadores ou sistemas de software que fornecem serviços, recursos ou funcionalidades para outros dispositivos ou programas chamados de "clients". Esses servidores são responsáveis por receber solicitações dos "clients", processá-las e fornecer as respostas ou recursos solicitados.
+    
+    Os servidores desempenham um papel crucial na infraestrutura da internet e das redes de computadores. Eles podem fornecer uma ampla variedade de serviços, como hospedagem de sites, armazenamento de dados, compartilhamento de arquivos, processamento de aplicativos, hospedagem de jogos online, entrega de conteúdo multimídia e muito mais.
+    
+    Esses servidores são projetados para lidar com um grande número de solicitações simultâneas, garantir a segurança dos dados e garantir o desempenho adequado dos serviços oferecidos. Eles são configurados e mantidos por administradores de sistema para garantir que estejam funcionando corretamente e disponíveis para os "clients" que deles dependem.
+    
+    Existem diferentes tipos de servidores, cada um com sua função específica. Alguns exemplos comuns incluem servidores web, servidores de e-mail, servidores de banco de dados, servidores de arquivos, servidores de aplicativos e servidores de jogos.
+    
+    Em resumo, os servidores são computadores ou sistemas de software que fornecem serviços, recursos ou funcionalidades para outros dispositivos ou programas chamados de "clients". Eles são responsáveis por receber solicitações, processá-las e fornecer as respostas ou recursos solicitados.</p4>
+    <hr> <br>
+    
+    <h2 id="quarto">Linguagens de Programação</h2>
+    <p2>Existem várias linguagens de programação que são amplamente utilizadas para o desenvolvimento de aplicações web. Cada linguagem tem suas características e finalidades específicas. Abaixo estão algumas das principais linguagens de programação web:
+    
+   <ul>
+     <li> HTML (Hypertext Markup Language): Embora não seja considerada uma linguagem de programação completa, o HTML é a base da estrutura de todas as páginas da web. Ele é usado para estruturar e organizar o conteúdo, definindo elementos como cabeçalhos, parágrafos, links, imagens e formulários.</li>
+         <br>
+    <li> CSS (Cascading Style Sheets): O CSS é usado para definir a aparência e o estilo das páginas web. Ele permite controlar aspectos como cores, fontes, layout, margens e animações. O CSS é usado em conjunto com o HTML para criar páginas visualmente atraentes.</li>
+         <br>
+    <li> JavaScript: JavaScript é uma linguagem de programação de alto nível que permite adicionar interatividade e comportamento dinâmico às páginas da web. Ele pode ser usado para manipular elementos HTML, realizar cálculos, criar animações, fazer requisições assíncronas ao servidor e muito mais. O JavaScript é amplamente suportado pelos navegadores e é uma das linguagens mais populares para o desenvolvimento web.</li>
+         <br>
+    <li> PHP: PHP é uma linguagem de programação server-side amplamente utilizada para o desenvolvimento de aplicações web dinâmicas. Ela é executada no servidor e gera o código HTML que é enviado para o navegador do usuário. O PHP possui uma ampla variedade de recursos e integração com bancos de dados, tornando-a uma escolha popular para a criação de sites dinâmicos.</li>
+         <br>
+    <li> Python: Python é uma linguagem de programação versátil que também pode ser usada para desenvolvimento web. Existem diversos frameworks web em Python, como Django e Flask, que facilitam a criação de aplicações web de forma eficiente e segura. Python é conhecido por sua sintaxe limpa e legibilidade, o que o torna uma escolha popular entre desenvolvedores.</li>
+         <br>
+     <li> Ruby: Ruby é uma linguagem de programação dinâmica e de alto nível que possui um framework web chamado Ruby on Rails. O Ruby on Rails é conhecido por sua produtividade e convenções que facilitam o desenvolvimento rápido de aplicações web.</li>
+         <br>
+   </ul>   
+    Essas são apenas algumas das linguagens de programação web mais comuns, e cada uma delas tem suas vantagens e casos de uso específicos. A escolha da linguagem de programação depende dos requisitos do projeto, das preferências do desenvolvedor e do ecossistema em que a aplicação será desenvolvida.</p2>
+  <hr> <br>
+    <h2 id="quinto">Introdução do Html na prática</h2>
+   
+    <p><xmp>Essas são algumas tags (E conceitos) iniciantes que fomos apresentados nesse tópico: 
+    `<html>` e `<body>`: Essas são as tags de abertura e fechamento principais de uma página HTML. Todo o conteúdo da página é colocado entre essas tags. A tag `<html>` indica o início do documento HTML, enquanto a tag `<body>` contém o conteúdo visível na página.
+    
+    `<head>`: A tag `<head>` é usada para incluir informações sobre a página que não são exibidas no conteúdo principal. Ela contém elementos como o título da página, meta informações (como descrição e palavras-chave), referências a arquivos CSS e JavaScript, entre outros.
+    
+    `<h1>` a `<h6>`: Essas são as tags de cabeçalho, usadas para criar títulos e subtítulos. A tag `<h1>` é o cabeçalho principal e é usada para títulos importantes, enquanto as tags `<h2>` a `<h6>` são usadas para subtítulos de diferentes níveis de importância, em ordem decrescente.
+    
+    `<p>`: A tag `<p>` é usada para criar parágrafos de texto. O conteúdo dentro dessa tag é exibido como um parágrafo separado.
+    
+    `<a>`: A tag `<a>` é usada para criar links (âncoras) para outras páginas da web ou para seções dentro da mesma página. É necessário fornecer o atributo `href` para especificar o destino do link.
+    
+    `<img>`: A tag `<img>` é usada para exibir imagens na página. Ela requer o atributo `src`, que especifica o caminho ou URL da imagem, e o atributo `alt`, que fornece um texto alternativo para casos em que a imagem não pode ser exibida.
+    
+    `<ul>` e `<li>`: Essas tags são usadas para criar listas não ordenadas. A tag `<ul>` define uma lista não ordenada e a tag `<li>` define cada item da lista.
+    
+    `<ol>` e `<li>`: Essas tags são usadas para criar listas ordenadas. A tag `<ol>` define uma lista ordenada e a tag `<li>` define cada item da lista.</xmp></p>
+    
+</body>
+</html>
